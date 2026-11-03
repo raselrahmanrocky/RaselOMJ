@@ -1,0 +1,48 @@
+RaselOMJ — TERMS OF USE / CUSTOM LICENSE NOTICE
+Version 1.0 (03-11-2026)
+
+1. UNDERLYING COPYRIGHT
+The glyph outlines, character shapes and typeface design embodied in
+"RaselOMJ-Regular.ttf" are derived from the SutonnyMJ font.
+Copyright (C) Ananda Computers, Dhaka, Bangladesh
+(https://bijoyekushe.net.bd/). All rights to the underlying design
+are reserved by Ananda Computers.
+
+2. NO OPEN-SOURCE LICENSE APPLIES TO THE FONT
+Because the maintainer of this repository is not the copyright holder
+of the underlying glyphs, no open-source license (including GNU GPL,
+MIT, Apache or SIL OFL) is granted over the font file. Any earlier
+GPL-3.0 designation attached to this repository is hereby withdrawn
+and superseded by this notice.
+
+3. LIMITED PERSONAL / EDUCATIONAL PERMISSION
+Subject to paragraph 1, the maintainer grants a limited, revocable,
+non-exclusive, non-transferable permission to:
+  (a) download and install the font on personal devices for personal,
+      non-commercial use;
+  (b) study this repository for educational purposes relating to font
+      engineering and ANSI-to-Unicode conversion.
+
+4. PROHIBITIONS
+Without prior written permission from Ananda Computers, you may NOT:
+  (a) sell, rent, sublicense or otherwise commercially exploit the
+      font or any derivative work;
+  (b) embed the font in websites, apps, products or services
+      (including @font-face embedding);
+  (c) redistribute the font bundled with any software or document;
+  (d) remove or alter this notice or the attribution to Ananda
+      Computers.
+
+5. DOCUMENTATION AND ORIGINAL SCRIPTS
+Original documentation, metadata or conversion scripts authored by
+the maintainer (excluding the font binaries and glyph designs) are
+licensed under CC BY-NC 4.0.
+
+6. COMMERCIAL LICENSING
+For any commercial use of SutonnyMJ-derived fonts, obtain a license
+from Ananda Computers: https://bijoyekushe.net.bd/
+
+7. DISCLAIMER
+THE FONT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED. IN NO EVENT SHALL THE MAINTAINER OR ANANDA COMPUTERS BE
+LIABLE FOR ANY CLAIM OR DAMAGES ARISING FROM USE OF THIS FONT.
